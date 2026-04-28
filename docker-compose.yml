@@ -9,6 +9,8 @@ services:
       - "3500:3500"
     depends_on:
       - mongo
+    environment:
+      - MONGO_CONN_STR=mongodb://mongo:27017/todo   # ✅ ADD THIS
 
   frontend:
     build:
