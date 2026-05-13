@@ -1,7 +1,6 @@
 # 🚀 Fullstack Todo App
 
-### ⚛️ React + Node.js + MongoDB + Docker + Jenkins + AWS
-
+### ⚛️ Docker + Jenkins + ci-cd + AWS + Git + DevOps + DATABASE + React + Node.js  
 
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
