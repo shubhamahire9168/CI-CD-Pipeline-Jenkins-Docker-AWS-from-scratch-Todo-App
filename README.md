@@ -79,6 +79,10 @@ docker compose up -d --build
 ![Output1](Screenshot%202026-04-30%20132052.png)
 ![Output2](Screenshot%202026-04-30%20131935.png)
 ![Output3](Screenshot%202026-04-30%20132005.png)
+![Output4](Jenkins-1.png)
+![Output5](jenkins-Todo.png)
+
+
 
 ## 🔄 CI/CD Flow
 
